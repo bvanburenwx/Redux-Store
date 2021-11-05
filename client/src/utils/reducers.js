@@ -94,4 +94,4 @@ export const reducer = (state = initialState, action) => {
   }
 };
 
-export default reducers;
+export default reducer;
