@@ -1,6 +1,6 @@
 # Redux Store
 
-[Click to View the Book Search Engine ](https://bvanburen-redux-store.herokuapp.com/)
+[Click to View the Shop Shop](https://bvanburen-redux-store.herokuapp.com/)
 
 ---
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
